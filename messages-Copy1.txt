@@ -1,0 +1,29 @@
+4
+<begin_topic>
+:id: 1
+:subject: Yo mom
+:from: ali87
+:children: 2
+:body: so fat
+she ate
+my mom
+<end>
+<begin_reply>
+:id: 2
+:subject: Re: Yo mom
+:from: ali87
+:children: 3 4
+:body: thats not very nice
+<end>
+<begin_reply>
+:id: 3
+:subject: Re: Re: Yo mom
+:from: ali87
+:body: i agree
+<end>
+<begin_reply>
+:id: 4
+:subject: Re: Re: Yo mom
+:from: ali87
+:body: Ok boomer
+<end>
